@@ -14,6 +14,7 @@ namespace ConversorMVC.Controllers
         {
             return View();
         }
+        {}
 
         public IActionResult Privacy()
         {
